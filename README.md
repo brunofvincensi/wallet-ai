@@ -1,9 +1,8 @@
 # WALLET AI -- Portfolio Optimizer
 
-## Installation and Execution Guide
+<img width="1214" height="585" alt="Imagem1" src="https://github.com/user-attachments/assets/aeb90e4c-362f-4a3a-b0e3-ee81ba06c7de" />
 
-------------------------------------------------------------------------
-
+# Installation and Execution Guide
 ## Table of Contents
 
 1.  Prerequisites\
